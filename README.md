@@ -1,4 +1,4 @@
-💻 Minha Primeira Aplicação em Java – ProjetinhoPae
+💻 Minha Primeira Aplicação em Java
 
 Este foi o meu primeiro projeto desenvolvido em Java, criado com o objetivo de colocar em prática os conceitos básicos que venho aprendendo na linguagem.
 
